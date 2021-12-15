@@ -9,7 +9,7 @@ This repo contains a simple terraform configuration file that is used to create 
 * Install Terraform
 * Create and destroy resources in AWS
 
-### Commands used to create and destroy aws resources
+### Commands used
 ```bash
     terraform init
     terraform plan
