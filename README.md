@@ -8,6 +8,8 @@ This repo contains a simple terraform configuration file that is used to create 
 
 * Install Terraform
 * Create and destroy resources in AWS
+* Terraform variables
+* Terraform outputs
 
 ### Commands used
 ```bash
